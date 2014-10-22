@@ -13,4 +13,5 @@ Thumbs.db
 /app/storage/logs/*
 /app/storage/views/*
 /app/storage/sessions/*
+/app/config/local/*
 !.gitkeep

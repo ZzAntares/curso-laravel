@@ -25,7 +25,7 @@ return array(
 			'host'      => 'localhost',
 			'database'  => 'cursolaravel',
 			'username'  => 'root',
-			'password'  => 'alpha123',
+			'password'  => '860723rox',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
